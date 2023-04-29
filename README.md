@@ -1,3 +1,3 @@
 # Boston-House-Price-Predictions
 
-Using Linear Regression to predict Boston house prices with accuracy 86%
+Using Linear Regression to predict Boston house prices with 86% accuracy
